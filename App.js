@@ -15,7 +15,7 @@ export default function App() {
 
         <Image style={[styles.center, { width:200,height: 200 },{borderRadius: 100,marginLeft:45,marginRight:30}]} source={{ uri: 'https://img.onl/v35YgE' }}/>
         <Text style={{color:'#fff',fontSize: 30,textAlign: 'center',}}>李品諺</Text>
-        <Text style={{color:'#fff',fontSize: 10,textAlign: 'center',}}>---------------大家好v(￣︶￣)y---------------</Text>
+        <Text style={{color:'#fff',fontSize: 10,textAlign: 'center',}}>---------------大家好v(￣︶￣)y--------------</Text>
         <Text style={{color:'#fff',fontSize: 20,textAlign: 'center',}}>系級-資工一A</Text>
         <Text style={{color:'#fff',fontSize: 20,textAlign: 'center',}}>興趣-游泳,找人打game,coding(?</Text>
       </View>
